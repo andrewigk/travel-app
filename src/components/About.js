@@ -13,14 +13,16 @@ const About = () => {
           <article className="about-info">
             <h3>explore the difference</h3>
             <p>
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-              Aspernatur quisquam harum nam cumque temporibus explicabo dolorum
-              sapiente odio unde dolor?
+              Continue exploring the world with our travel service agency!
+              Whether you're looking to uncover hidden gems or revisit your
+              favorite destinations, we’re here to make every journey
+              unforgettable.
             </p>
             <p>
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-              Aspernatur quisquam harum nam cumque temporibus explicabo dolorum
-              sapiente odio unde dolor?
+              With tailored itineraries, exclusive deals, and personalized
+              support, we ensure that your travel experiences are seamless and
+              inspiring. Let us handle the details, so you can focus on creating
+              lasting memories. Your next adventure is just a click away!
             </p>
             <a href="#about" className="btn">
               Read more
